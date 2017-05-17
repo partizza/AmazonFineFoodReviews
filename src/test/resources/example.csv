@@ -1,0 +1,13 @@
+Id,ProductId,UserId,ProfileName,HelpfulnessNumerator,HelpfulnessDenominator,Score,Time,Summary,Text
+1,P001,U003,delmartian,1,1,5,1303862400,Good Quality Dog Food,one_1 one_2 two_1 ... two_1 . three_1
+2,P002,U001,delmartian,1,1,5,1303862400,Good Quality Dog Food,three_1 ... three_1
+3,P003,U003,delmartian,1,1,5,1303862400,Good Quality Dog Food,...
+4,P003,U002,delmartian,1,1,5,1303862400,Good Quality Dog Food, one_3 three_2 three_2
+5,P002,U002,delmartian,1,1,5,1303862400,Good Quality Dog Food, one_4 three_2 three_3
+6,P003,U003,delmartian,1,1,5,1303862400,Good Quality Dog Food,  three_3 three_3 one_5.
+1,P001,U003,delmartian,1,1,5,1303862400,Good Quality Dog Food,one_1 one_2 two_1 ... two_1 . three_1
+2,P002,U001,delmartian,1,1,5,1303862400,Good Quality Dog Food,three_1 ... three_1
+3,P003,U003,delmartian,1,1,5,1303862400,Good Quality Dog Food,...
+4,P003,U002,delmartian,1,1,5,1303862400,Good Quality Dog Food, one_3 three_2 three_2
+5,P002,U002,delmartian,1,1,5,1303862400,Good Quality Dog Food, one_4 three_2 three_3
+6,P003,U003,delmartian,1,1,5,1303862400,Good Quality Dog Food,  three_3 three_3 one_5.
